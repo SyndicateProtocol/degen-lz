@@ -4,7 +4,7 @@ import { ExecutorOptionType } from '@layerzerolabs/lz-v2-utilities'
 import type { OAppOmniGraphHardhat, OmniPointHardhat } from '@layerzerolabs/toolbox-hardhat'
 
 const baseContract: OmniPointHardhat = {
-    eid: EndpointId.ETHEREUM_V2_MAINNET,
+    eid: EndpointId.BASE_V2_MAINNET,
     contractName: 'DEGENOFTAdapter',
 }
 
